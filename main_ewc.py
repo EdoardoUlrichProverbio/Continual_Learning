@@ -17,6 +17,9 @@ from ewc_functions import Fisher_I_matrix
 from ewc_functions import elastic_weight_consolidation
 from ewc_functions import backward_transfer
 
+
+#NB pip install tfds-nightly to find "plant_village" dataset
+
 #------------------------------------------------------------------------------------------------------
 
 #this was the actual result from our model selection
